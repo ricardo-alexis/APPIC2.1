@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\PSMA\PSMA\bin\Debug\PSMA.exe.config
+C:\Users\usuario\source\repos\PSMA\PSMA\bin\Debug\PSMA.exe
+C:\Users\usuario\source\repos\PSMA\PSMA\bin\Debug\PSMA.pdb
+C:\Users\usuario\source\repos\PSMA\PSMA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\PSMA\PSMA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.Form1.resources
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.Properties.Resources.resources
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.csproj.CopyComplete
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.exe
+C:\Users\usuario\source\repos\PSMA\PSMA\obj\Debug\PSMA.pdb
